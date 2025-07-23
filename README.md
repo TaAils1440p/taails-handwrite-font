@@ -6,5 +6,5 @@ I made my own handwriten font with **Calligraphr**.
 2. Open the file and click install.
 3. Make your program use the font.
 
-## License
+## License
 The font released under the [MIT License](./LICENSE).
